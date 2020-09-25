@@ -26,7 +26,6 @@ export const ColumnTitle = styled.div`
 `;
 
 export const CardContainer = styled.div`
-    min-width: 300px;
     margin-bottom: 0.5rem;
     padding: 0.5rem 1rem;
     background-color: #fff;
