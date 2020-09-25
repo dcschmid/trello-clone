@@ -1,5 +1,9 @@
 import styled from "styled-components";
 
+interface AddItemButtonProps {
+    dark?: boolean
+}
+
 export const AppContainer = styled.div`
     display: flex;
     flex-direction: row;
@@ -32,4 +36,10 @@ export const CardContainer = styled.div`
     border-radius: 3px;
     box-shadow: #091e4240 0 1px 0 0;
     cursor: pointer;
+`;
+
+export const AddItemButton = styled.button<AddItemButtonProps>`
+    width: 100%;
+    max-width: 300px;
+    
 `;
