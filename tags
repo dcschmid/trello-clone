@@ -1,0 +1,35 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AddItemButtonProps	src/styles.ts	/^interface AddItemButtonProps {$/;"	i
+Atomics	.eslintrc.js	/^    Atomics: "readonly",$/;"	P
+Available Scripts	README.md	/^## Available Scripts$/;"	i
+Learn More	README.md	/^## Learn More$/;"	i
+SharedArrayBuffer	.eslintrc.js	/^    SharedArrayBuffer: "readonly",$/;"	P
+`yarn build`	README.md	/^### `yarn build`$/;"	k
+`yarn eject`	README.md	/^### `yarn eject`$/;"	k
+`yarn start`	README.md	/^### `yarn start`$/;"	k
+`yarn test`	README.md	/^### `yarn test`$/;"	k
+browser	.eslintrc.js	/^    browser: true,$/;"	P
+ecmaFeatures	.eslintrc.js	/^    ecmaFeatures: {$/;"	P
+ecmaVersion	.eslintrc.js	/^    ecmaVersion: 2018,$/;"	P
+endOfLine	.eslintrc.js	/^        endOfLine: "auto",$/;"	P
+env	.eslintrc.js	/^  env: {$/;"	P
+es6	.eslintrc.js	/^    es6: true,$/;"	P
+exports	.eslintrc.js	/^module.exports = {$/;"	P
+extends	.eslintrc.js	/^  extends: [$/;"	P
+globals	.eslintrc.js	/^  globals: {$/;"	P
+html	src/index.css	/^html {$/;"	t
+jest	.eslintrc.js	/^    jest: true,$/;"	P
+jsx	.eslintrc.js	/^      jsx: true,$/;"	P
+parser	.eslintrc.js	/^  parser: "@typescript-eslint\/parser",$/;"	P
+parserOptions	.eslintrc.js	/^  parserOptions: {$/;"	P
+plugins	.eslintrc.js	/^  plugins: ["react", "@typescript-eslint", "jest"],$/;"	P
+project	.eslintrc.js	/^    project: ".\/tsconfig.json",$/;"	P
+root	src/index.css	/^#root {$/;"	i
+rules	.eslintrc.js	/^  rules: {$/;"	P
+sourceType	.eslintrc.js	/^    sourceType: "module",$/;"	P
+styled	src/styles.ts	/^import styled from "styled-components";$/;"	I

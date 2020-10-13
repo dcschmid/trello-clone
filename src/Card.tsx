@@ -1,12 +1,12 @@
-import React from "react"
+import React from "react";
 import { CardContainer } from "./styles";
 
 interface CardProps {
-    text: string
+  text: string;
 }
 
 const Card = ({ text }: CardProps) => {
-    return <CardContainer>{text}</CardContainer>
-}
+  return <CardContainer>{text}</CardContainer>;
+};
 
 export default Card;
